@@ -1,0 +1,13 @@
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\bin\Debug\netcoreapp3.1\LinkedListArray.exe
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\bin\Debug\netcoreapp3.1\LinkedListArray.deps.json
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\bin\Debug\netcoreapp3.1\LinkedListArray.runtimeconfig.json
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\bin\Debug\netcoreapp3.1\LinkedListArray.runtimeconfig.dev.json
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\bin\Debug\netcoreapp3.1\LinkedListArray.dll
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\bin\Debug\netcoreapp3.1\LinkedListArray.pdb
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\obj\Debug\netcoreapp3.1\LinkedListArray.csprojAssemblyReference.cache
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\obj\Debug\netcoreapp3.1\LinkedListArray.AssemblyInfoInputs.cache
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\obj\Debug\netcoreapp3.1\LinkedListArray.AssemblyInfo.cs
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\obj\Debug\netcoreapp3.1\LinkedListArray.csproj.CoreCompileInputs.cache
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\obj\Debug\netcoreapp3.1\LinkedListArray.dll
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\obj\Debug\netcoreapp3.1\LinkedListArray.pdb
+C:\Users\User\DEV\LinkedListArrayList\LinkedListArray\obj\Debug\netcoreapp3.1\LinkedListArray.genruntimeconfig.cache
